@@ -20,8 +20,8 @@ The Java Core category covers all the fundamental concepts of Java programming l
 
 Ready to create amazing web applications with Java? The Web Development category is where you want to be! You'll learn how to use popular frameworks like Spring and Hibernate ORM, build RESTful web services, learning how to use Java Enterprise edition, and even explore modern frontend libraries like ReactJS and AngularJS.
 ### => Java EE
-- [ ] Dependency Injection (EJB 3.2, CDI 2)
-- [ ] JPA (Java Persistence API) with EJB
+- [x] Dependency Injection (EJB 3.2, CDI 2)
+- [x] JPA (Java Persistence API) with EJB
 - [ ] JMS (Java Messaging Service) JSR 342 in Java EE8
 - [ ] Web Service (JAX RS/WS - Restful/WSDL)
 - [ ] Schedule (EJB Timer)
@@ -43,7 +43,7 @@ For Spring framework, the recommended order is:
 - [x] Spring Data JPA
 - [x] Spring Mail Service
 - [x] Spring Test (Mock & Smoke By Junit5 - TDD & BDD)
-- [ ] Spring Security (JWT, - oauth2)
+- [x] Spring Security (JWT, - oauth2)
 - [x] Spring Validation
 After that, you can move on to:
 - [ ] Reactive Programming

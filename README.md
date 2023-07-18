@@ -13,7 +13,7 @@ The Java Core category covers all the fundamental concepts of Java programming l
 - [ ] File System
 - [ ] Thread
 - [ ] Reflection
-- [ ] Lambda
+- [x] Lambda
 - [ ] XML (SAX, DOM, JDOM, JAXB)
 
 ## Web Development
@@ -47,10 +47,10 @@ For Spring framework, the recommended order is:
 - [x] Spring Validation
 After that, you can move on to:
 - [ ] Reactive Programming
-- [ ] Spring Webflux
+- [x] Spring Webflux
 - [ ] Spring Web MVC by Webflux
 - [ ] Spring WebSocket by Webflux
-- [ ] Spring Security by Webflux (jwt, oauth2-client)
+- [x] Spring Security by Webflux (jwt ✅) (oauth2-client)
 - [ ] Spring WebClient by Webflux
 - [ ] Spring WebSocketClient by Webflux
 - [ ] Spring RsocketServer (TCP, WebSocket)
